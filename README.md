@@ -2,7 +2,7 @@
 
 Análise exploratória de dados sobre o engajamento de funcionários em uma empresa.
 
-## Instalação 
+## Instalação
 
 Use o gerenciador de pacotes [pip](https://pip.pypa.io/en/stable/) para instalar os modulos.
 
@@ -16,18 +16,22 @@ pip install streamlit
 
 ## Uso
 
-Para acessar o notebook:
+Acessar o notebook:
+
 ```bash
 jupyter notebook
 ```
 
-Para rodar o aplicativo:
+Rodar o aplicativo:
+
 ```bash
 streamlit run EDA_funcionario.py 
 ```
 
 ## Contribuição
-Pull requests são bem vindas. 
+
+Pull requests são bem vindas.
 
 ## License
+
 [MIT](https://choosealicense.com/licenses/mit/)
