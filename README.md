@@ -4,16 +4,26 @@ Análise exploratória de dados sobre o engajamento de funcionários em uma empr
 
 ## Instalação 
 
-Use o gerenciador de pacotes [pip](https://pip.pypa.io/en/stable/) para instalar o modulo nltk.
+Use o gerenciador de pacotes [pip](https://pip.pypa.io/en/stable/) para instalar os modulos.
 
 ```bash
 sudo apt install python3-nltk
 ```
 
+```bash
+pip install streamlit
+```
+
 ## Uso
 
+Para acessar o notebook:
 ```bash
 jupyter notebook
+```
+
+Para rodar o aplicativo:
+```bash
+streamlit run EDA_funcionario.py 
 ```
 
 ## Contribuição
